@@ -35,6 +35,34 @@ const posts = [
     date: "Dec 15, 2024",
     slug: "low-carb-comfort-foods",
   },
+  {
+    title: "Best Keto Supplements 2025",
+    description:
+      "Discover the top keto supplements to enhance your ketogenic diet with expert reviews of MCT oil, electrolytes, and more.",
+    image: "/keto-supplements-collection.jpg",
+    category: "Supplements",
+    readTime: "10 min read",
+    date: "Dec 23, 2024",
+    slug: "best-keto-supplements-2025",
+  },
+  {
+    title: "Best Keto Protein Powders 2025",
+    description: "Expert reviews of the best keto-friendly protein powders with minimal carbs for muscle building.",
+    image: "/keto-protein-powder-bottles.jpg",
+    category: "Products",
+    readTime: "8 min read",
+    date: "Dec 23, 2024",
+    slug: "keto-protein-powders",
+  },
+  {
+    title: "Top 20 Keto Snacks to Buy Online",
+    description: "The ultimate guide to convenient, delicious low-carb snacks you can order directly to your door.",
+    image: "/keto-snacks-variety-spread.jpg",
+    category: "Shopping",
+    readTime: "7 min read",
+    date: "Dec 23, 2024",
+    slug: "keto-snacks-guide",
+  },
 ]
 
 export function FeaturedPosts() {

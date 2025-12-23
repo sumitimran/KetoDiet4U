@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ketodiet4u.com/sitemap.xml
+
+# Google AdSense bot
+User-agent: Mediapartners-Google
+Allow: /
+
+# Common bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /

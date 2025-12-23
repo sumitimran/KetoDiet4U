@@ -26,5 +26,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.8,
     },
+    {
+      url: "https://ketodiet4u.com/blog/best-keto-supplements-2025",
+      lastModified: new Date("2024-12-23"),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://ketodiet4u.com/blog/keto-protein-powders",
+      lastModified: new Date("2024-12-23"),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: "https://ketodiet4u.com/blog/keto-snacks-guide",
+      lastModified: new Date("2024-12-23"),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
   ]
 }
